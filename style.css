@@ -1,0 +1,19 @@
+body {
+    border-style: solid;
+    border-width: medium;
+    padding-left: 40px;
+    margin: 10px;
+}
+
+h5 {
+    color: rgb(43, 198, 43);
+}
+
+p {
+    line-height: 13px;
+}
+
+h6 {
+    color: rgb(70, 70, 224);
+    margin-top: 1%
+}
